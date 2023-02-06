@@ -1,7 +1,7 @@
 # testCheck
 test lessons Hexlet
 
-https://github.com/to-antonova/testCheck/actions/workflows/main.yml/badge.svg
+[![Actions Status](https://github.com/to-antonova/php-project-45/workflows/main.yml/badge.svg)](https://github.com/to-antonova/testCheck/actions)
 
 <h2 style="color: purple; font-size: 20px;">Создан для практики по курсам Хекслет</h2>
 <ul>
